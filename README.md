@@ -21,20 +21,20 @@ This will put you into the program such that you can input your data as is menti
 
 ## Rover Instructions
 
-Enter grid size (m x n). Leave space between values, example format [m n]:
+Enter grid size (m x n):
 
 ```
 4 8
 ```
 
-Add as many robots as like on a new line after hitting return:
+Add as many robots as you like on a new line after hitting return:
+"(x, y, orientation) commands)"
 
 ```
 (2, 3, E) LFRFF
 (0, 2, N) FFLRFF
 (2, 3, N) FLLFR
 (1, 0, S) FFRLF
-
 ```
 
 Hit return as a blank entry after the last robot to see results:
